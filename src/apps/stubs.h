@@ -1,0 +1,15 @@
+#pragma once
+void runGame();
+void runVoltmeter();
+void runThermometer();
+void runHumidity();
+void runNoise();
+void runWifiScan();
+void runCalculator();
+void runTimer();
+void runSettings();
+void runScreenlight();
+void runLed();
+void runTheme();
+void runBattery();
+void runHelp();
